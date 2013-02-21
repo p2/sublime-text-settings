@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_indent_guides": true,
+	"draw_white_space": "none",
+	"ensure_newline_at_eof_on_save": true,
+	"fold_buttons": false,
+	"font_face": "Monaco",
+	"font_size": 13.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"margin": 0,
+	"open_files_in_new_window": false,
+	"show_full_path": false,
+	"trim_automatic_white_space": false,
+	"word_wrap": true
+}

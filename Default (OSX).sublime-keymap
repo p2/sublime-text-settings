@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+c"], "command": "reindent"},
+	{ "keys": ["ctrl+shift+m"], "command": "expand_selection", "args": {"to": "brackets"} }
+]

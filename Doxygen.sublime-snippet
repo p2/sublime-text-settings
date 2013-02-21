@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+/**
+ *  ${1:Comment}
+ */
+]]></content>
+	<description>Generates a comment block ready for Doxygen/Appledoc.</description>
+	<tabTrigger>doxygen</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
