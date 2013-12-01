@@ -1,0 +1,4 @@
+{
+	"extensions": ["md", "markdown"],
+	"rulers": [80]
+}
