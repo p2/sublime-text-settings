@@ -1,0 +1,6 @@
+{
+	"extensions": ["md", "markdown"],
+	"line_numbers": true,
+	"line_padding_top": 2,
+	"spell_check": true
+}
