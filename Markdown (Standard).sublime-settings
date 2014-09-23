@@ -1,5 +1,5 @@
 {
-	"extensions": ["md", "markdown"],
+	"extensions": ["md", "mdown", "markdown"],
 	"line_numbers": true,
 	"line_padding_top": 2,
 	"spell_check": true
