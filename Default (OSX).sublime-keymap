@@ -1,4 +1,5 @@
 [
 	{ "keys": ["ctrl+c"], "command": "reindent"},
-	{ "keys": ["ctrl+shift+m"], "command": "expand_selection", "args": {"to": "brackets"} }
+	{ "keys": ["ctrl+shift+m"], "command": "expand_selection", "args": {"to": "brackets"} },
+	{ "keys": ["super+alt+c"], "command": "sublime_highlight", "args": { "target": "clipboard", "output_type": "rtf"} }
 ]
